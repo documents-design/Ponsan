@@ -1,0 +1,10 @@
+sub zero slash zero zero by perthousand;
+sub zero fraction zero zero by perthousand;
+sub zero slash zero by percent;
+sub zero fraction zero by percent;
+sub one slash two by onehalf;
+sub one slash four by onequarter;
+sub one fraction two by onehalf;
+sub one fraction four by onequarter;
+sub three slash four by threequarters;
+sub three fraction four by threequarters;

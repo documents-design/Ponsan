@@ -1,0 +1,13 @@
+script latn;
+language AZE ;
+sub i by idotaccent;
+language CRT ;
+sub i by idotaccent;
+language MOL ;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+language ROM ;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+language TRK ;
+sub i by idotaccent;

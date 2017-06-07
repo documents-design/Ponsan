@@ -1,0 +1,2 @@
+sub [zero one two three four five six seven eight nine ] [O o O.small ]' by [ordmasculine ordmasculine ordmasculine ];
+sub [zero one two three four five six seven eight nine ] [A a A.small ]' by [ordfeminine ordfeminine ordfeminine ];
