@@ -8,4 +8,4 @@ Le Ponsan semi-oblique a été conçu pour la signalétique de la résidence uni
 
 *En téléchargement libre* : [Ponsan Semi-oblique rounded](./caractere/Ponsan-SemiObliqueRounded.otf)
 
-*Manuel d'utilisation* : [pdf](./caractere/PONSAN_Manuel_utilisation.pdf)
+*Manuel d'utilisation* : [*pdf](./caractere/PONSAN_Manuel_utilisation.pdf)
